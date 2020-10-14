@@ -1,0 +1,60 @@
+body{
+    background-color:rgb(58, 82, 151);
+}
+
+.ContainerBg{
+    background-color:rgb(58, 82, 151);
+}
+
+.MainNewsBanner{
+    height: 800px;
+    
+}
+
+.MainNewsSection{
+    padding: 50px;
+    border-color: black;
+    border-top: 200px;
+    height: 1000px;
+}
+
+.CenterArticleCol
+{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#ArticleContent
+{
+    padding: 45px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+div.ArticleFormatL
+{
+    float: left;
+    width: 710px;
+    padding: 50px;
+    background-color: white;
+}
+div.ArticleFormatR
+{
+    float: right;
+    width: 470px;
+    padding: 25px;
+    background-color: white;
+}
+img.ArticleImg
+{
+    width: 600px;
+    height:350px;
+}
+
+div.RegForm
+{
+    margin: 5%;
+    padding: 20px;
+    border-radius: 5px;
+    border: white;
+    background-color: white;
+}
